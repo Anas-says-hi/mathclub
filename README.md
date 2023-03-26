@@ -1,1 +1,1 @@
-#Delta Mathematical Club
+# Delta Mathematical Club
